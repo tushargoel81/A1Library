@@ -11,12 +11,30 @@
         }
       },
       {
+        "package": "Alamofire",
+        "repositoryURL": "https://github.com/Alamofire/Alamofire.git",
+        "state": {
+          "branch": null,
+          "revision": "f455c2975872ccd2d9c81594c658af65716e9b9a",
+          "version": "5.9.1"
+        }
+      },
+      {
         "package": "AppCheck",
         "repositoryURL": "https://github.com/google/app-check.git",
         "state": {
           "branch": null,
           "revision": "3b62f154d00019ae29a71e9738800bb6f18b236d",
           "version": "10.19.2"
+        }
+      },
+      {
+        "package": "Facebook",
+        "repositoryURL": "https://github.com/facebook/facebook-ios-sdk.git",
+        "state": {
+          "branch": null,
+          "revision": "9ed465ccd73c231144d49a9c681774577c616f34",
+          "version": "17.0.2"
         }
       },
       {
