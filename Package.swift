@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.9.1"),
         .package(url: "https://github.com/firebase/firebase-ios-sdk.git", from: "10.29.0"),
-        .package(url: "https://github.com/facebook/facebook-ios-sdk.git", from: "17.0.2")
+        .package(url: "https://github.com/facebook/facebook-ios-sdk.git", from: "17.0.2"),
     ],
     targets: [
         .target(
